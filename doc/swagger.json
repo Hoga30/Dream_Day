@@ -1,10 +1,10 @@
 {
     "swagger": "2.0",
     "info": {
-      "title": "DREAM DAY RENTALS",
-      "description": "This API Specification for the Weeding Planner service",
+      "title": "DREAM_DAY ",
+      "description": "This API Specification for the event Planning system",
       "contact": {
-        "email": "mireilleirafasha@gmail.com"
+        "email": "tecyrose30@gmail.com"
       },
       "license": {
         "name": "MIT",
@@ -13,7 +13,7 @@
       "version": "1.0.0"
     },
     "externalDocs": {
-      "url": "https://github.com/mireilleIrafasha25/Dream-Day-Rentals.git",
+      "url": "https://github.com/Hoga30/Dream_Day.git",
       "description": "Find more info here"
     },
     "basePath": "/weeding",
